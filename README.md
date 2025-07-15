@@ -1,6 +1,8 @@
 # T-5GS: A Full-Scale 5G Roaming Testbed on EVE-NG
 
-![logo](./docs/T-5GS_logo.jpg)
+![logo](./docs/T-5GS_logo.png)
+
+---------
 
 This repository provides the reproducible implementation of **T-5GS**(Truth 5G System), a full-scale, multi-operator 5G roaming testbed based on **Open5GS** and **PacketRusher**. The testbed is designed to go beyond core-level simulation by enabling realistic, end-to-end roaming evaluation across UE, RAN, and Core Network layers. This platform serves both research and education purposes in mobile networking, security, and inter-PLMN interoperability.
 
