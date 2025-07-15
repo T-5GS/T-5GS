@@ -1,6 +1,6 @@
 # T-5GS: A Full-Scale 5G Roaming Testbed on EVE-NG
 
-![logo](./docs/T-5GS_logo.png)
+<img src="./docs/T-5GS_logo.png" alt="logo" width="100" height="100"/>
 
 ---------
 
