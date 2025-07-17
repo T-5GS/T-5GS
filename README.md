@@ -347,3 +347,19 @@ Each VM is assigned a dedicated NAT gateway (`pnet1`–`pnet4`) to ensure isolat
 - Q3: Why my Linux node cannot start successfully?
 
 - A3: Make sure that "Virtualize Intel VT-x/EPT or AMD-V/RVI." and "Virtualize IOMMU (IO memory management unit)." these two options are enabled in you're VMware Workstation setup.
+
+
+## [7] Reference
+If you use T-5GS or find it helpful in your research, please cite the following paper:
+BibTeX:
+```
+@inproceedings{chang2025t5gs,
+  author    = {Chia-Hao Chang and Tsung-Nan Lin},
+  title     = {{POSTER: T-5GS: A Full-Scale Multi-Operator 5G Roaming Testbed Beyond Core-Level Simulations}},
+  booktitle = {ACM SIGCOMM Posters and Demos ’25},
+  year      = {2025},
+  publisher = {ACM},
+  address   = {Coimbra, Portugal},
+  doi       = {10.1145/3744969.3748394}
+}
+```
