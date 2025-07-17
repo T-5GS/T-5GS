@@ -351,6 +351,7 @@ Each VM is assigned a dedicated NAT gateway (`pnet1`–`pnet4`) to ensure isolat
 
 ## [7] Reference
 If you use T-5GS or find it helpful in your research, please cite the following paper:
+
 BibTeX:
 ```
 @inproceedings{chang2025t5gs,
