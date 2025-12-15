@@ -46,7 +46,7 @@ Each VM is assigned a dedicated NAT gateway (`pnet1`–`pnet4`) to ensure isolat
 
 ### [3-2] Steps
 
-1. Download our prebuilt topology document [[R-5GS.unl]](R-5GS.unl) and linux image [[linux-vm1-packetrusher]](https://drive.google.com/file/d/1vXR4MzqyJY_razetuwOhh9oUU38Sulz0/view?usp=sharing), [[linux-vm2-vplmn-open5gs]](https://drive.google.com/file/d/10lP_UaRAthMw_ExxIl1Og6qMD98oD-dF/view?usp=sharing), [[linux-vm3-hplmn-open5gs]](https://drive.google.com/file/d/1oF4sglrRK_iwkYKtBLmQCvMwDvTHtboG/view?usp=sharing), [[linux-vm4-router]](https://drive.google.com/file/d/1qx3zVZaPLwJT1rJLSbm3i7nVyqPbIIJR/view?usp=drive_link).
+1. Download our prebuilt topology document [[R-5GS.unl]](R-5GS.unl) and linux image [[linux-vm1-packetrusher]](https://drive.google.com/file/d/1mtYRlIsOk2Osu0KD0aikf11l5ax014gu/view?usp=sharing), [[linux-vm2-vplmn-open5gs]](https://drive.google.com/file/d/19B6-6Q4i83Jxa3kyRn1iM9kO7rR7Inal/view?usp=sharing), [[linux-vm3-hplmn-open5gs]](https://drive.google.com/file/d/1LNd0mkkZf2n8wto1Ry7DL2182a_kEAEP/view?usp=sharing), [[linux-vm4-router]](https://drive.google.com/file/d/1eySy52_zd70YZ-slpzTIqBDjLnFaHPd3/view?usp=sharing).
 2. If you're not yet installed EVE-NG, please refer to https://www.eve-ng.net/index.php/documentation/community-cookbook/ and install it.
 3. Boot your installed EVE-NG VM and log in.
 4. Configure the IP address used by EVE-NG to provide services via the command below.
